@@ -1,0 +1,154 @@
+
+group Pv04 C4
+BM161                 -0.500
+D1174                 -0.500
+DROF1c               -0.500
+g2467                  0.000 C7
+Co-16                 4.700 BI C8
+DROF10b             7.000
+g1375                  14.000
+g2303                 19.000
+Co-34/Phg-3      19.000  BI C9          
+SF10                   26.800  BI C9
+Bng71                 27.000
+D1298                 33.000
+g483                    33.000
+DRbcs                  33.000
+G_U14S               43.000
+G_AP7S               43.000
+G_AP3S               43.000
+BM68                   43.000
+BM199                 43.000
+g128                    47.500
+BM49                    52.000
+D1325                  59.000
+g2595                  64.000
+g1564                  76.000
+g755                    95.000
+Me                      106.000
+Bng224               106.000
+g118                   117.000
+g968                   117.500   
+
+[Chart Options]
+Version=22
+
+[Page Setup]
+PageSize=3
+PageOrientation=0
+CustomWidth=30000
+CustomHeight=30000
+LeftMargin=2500
+RightMargin=2500
+TopMargin=1000
+BottomMargin=1000
+
+[Title&Footer]
+ChartTitle=
+TitleMethod=1
+TitleFontName=Arial
+TitleFontSize=16
+TitleFontStyle=B
+TitleBottom=500
+FooterMethod=0
+FooterFontName=Arial
+FooterFontSize=8
+FooterFontStyle=
+[Page layout]
+NamesFontName=Arial
+NamesFontSize=14
+NamesFontStyle=BI
+NamesBottom=500
+MultipleBars=1
+ChromSpacing=500
+ChromWidthMethod=0
+FixChromWidth=7000
+
+[Homologs]
+ShowHomologs=0
+HomAuto=1
+HomUse=0
+HomFirst=0
+HomCharNum=0
+HomIgnCase=0
+HilightStyle=0
+HilightFontStyle=
+HilightSize=0
+HilightFontSize=10
+HilightColor=1
+HilightColorMethod=0
+HilightColorNum=2
+ConnMethod=1
+ConnSelf=0
+ConnSelfRight=0
+ConnSelfWidth=400
+ConnDotSize=150
+ConnColor=1
+ConnLineStyle=1
+ConnLineBold=0
+ConnColorMethod=0
+
+[Bars]
+BarPosAligned=0
+BarCentered=1
+BarTops=0
+FixedScale=0
+MaxBarLength=12000
+MM100perCM=100
+VertShiftUnits=0
+BarWidth=300
+IndBold=1
+IndCol=1
+IndicatorWidth=350
+RoundTips=1
+SplitMapCM=0
+
+[Loci]
+LocusFontName=Arial
+LocusFontSize=16
+LocusFontStyle=
+PositionMethod=1
+PositionTicks=20
+LocusNamePosition=1
+LociPerLine=2
+ShowTexts=1
+TextStyle=0
+Decimals=1
+
+[QTLs&Graphs]
+QTLFontName=Arial
+QTLFontSize=10
+QTLFontStyle=
+QTLBarWidth=300
+QTLSupName=0
+QTLEnds=1
+QTLPosition=1
+YaxisFontName=Arial
+YaxisFontSize=8
+YaxisFontStyle=
+YaxisFixedLength=1
+YaxisLength=5000
+YaxisMMperUnit=2,00000000000E+0002
+RoundGraphPoints=1
+SymbolSize=200
+ShowLegend=1
+LegendFontName=Arial
+LegendFontSize=10
+LegendFontStyle=
+
+[Colors&Lines]
+LineWidth=50
+BoldLineWidth=50
+Transparent=0
+MaxColor=10
+16777215
+0
+255
+32768
+8388608
+65535
+16711935
+65280
+128
+13252031
+32896
